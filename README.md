@@ -1,1 +1,3 @@
-# Todoapp
+__pycache__/
+.env
+*.sqlite3
