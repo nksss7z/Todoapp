@@ -1,3 +1,1 @@
-__pycache__/
-.env
-*.sqlite3
+Ce projet gère plusieurs tâches 
